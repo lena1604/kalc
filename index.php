@@ -4,7 +4,7 @@
 <title> ШафиКупе </title>
 </head>
 <body>
-<a href="kalc.php"> Вибрати</a><br>
- <a href="pp.php"> Зробелні замовлення</a>
+<a href="shafy.php"> Вибрати</a><br>
+ <a href="kalc.php"> Зробелні замовлення</a>
 </body>
 </html>
