@@ -7,6 +7,7 @@ header('Content-type: text/html; charset=utf-8');
 <title> ШафиКупе </title>
 </head>
 <body>
+<a href="clear.php">  БД </a><br>
 <a href="shafy.php"> Вибрати</a><br>
  <a href="kalc.php"> Зробелні замовлення</a>
 </body>
